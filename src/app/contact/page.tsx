@@ -34,7 +34,7 @@ function Contact() {
     <section className="py-20 bg-black text-white">
       <h2 className="text-4xl font-bold text-center text-blue-700 mb-8" data-aos="fade-up">Contact Me</h2>
       <p className="text-center text-emerald-500 mb-12" data-aos="fade-up" data-aos-delay="100">
-        Have questions or want to connect? Send me a message, and I'll get back to you as soon as possible.
+        Have questions or want to connect? Send me a message, and I &apos; ll get back to you as soon as possible.
       </p>
 
       <form

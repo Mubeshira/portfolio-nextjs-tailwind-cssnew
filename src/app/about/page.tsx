@@ -67,7 +67,7 @@ function About() {
       <div className="md:w-1/2 p-6" data-aos="fade-right">
         <h2 className="text-5xl font-bold text-blue-700 mb-4">About Me</h2>
         <p className="text-lg text-emerald-500 mb-6">
-          I'm a passionate frontend developer with a strong foundation in creating beautiful,
+          I &apos; m a passionate frontend developer with a strong foundation in creating beautiful,
           responsive, and user-friendly interfaces. I have a keen eye for design and a
           commitment to delivering high-quality web experiences.
         </p>

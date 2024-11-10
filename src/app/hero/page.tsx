@@ -93,7 +93,7 @@ function Hero() {
       {/* Text Section */}
       <div className="text-center md:text-left md:w-1/2" data-aos="fade-right">
         <h1 className="text-4xl md:text-4xl font-bold mb-4">
-          Hello, I'm <span className="text-emerald-500">Mubeshira Saad</span>
+          Hello, I &apos; m <span className="text-emerald-500">Mubeshira Saad</span>
         </h1>
         
         <TypeAnimation
@@ -112,7 +112,8 @@ function Hero() {
         />
         
         <p className="text-lg mt-6 text-emerald-300">
-          I'm a frontend developer on a journey to master the art of creating user-friendly and visually engaging websites and web applications.
+          Hello, I &apos; m <span className="text-emerald-500">Mubeshira Saad </span> 
+           I am a frontend developer on a journey to master the art of creating user-friendly and visually engaging websites and web applications.
         </p>
 
         <a href="/projects">

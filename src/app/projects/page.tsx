@@ -99,7 +99,7 @@ const projects = [
     link: "https://github.com/Mubeshira/Adventure-game-1.git",
   },
   
-  // Add more projects as needed
+
 ];
 
 export default function Projects() {
