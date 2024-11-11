@@ -100,19 +100,19 @@ function Hero() {
           sequence={[
             'I am a Frontend Developer',
             1000,
-            'WEB DEVELOPER',
+            'Web Developer',
             1000,
             'UI/UX Designer',
             1000
           ]}
           wrapper="span"
           speed={50}
-          style={{ fontSize: '1.25em', display: 'inline-block' }}
+          style={{ fontSize: '3em', display: 'inline-block' }}
           repeat={Infinity}
         />
         
         <p className="text-lg mt-6 text-emerald-300">
-          Hello, I &apos; m <span className="text-emerald-500">Mubeshira Saad </span> 
+      
            I am a frontend developer on a journey to master the art of creating user-friendly and visually engaging websites and web applications.
         </p>
 
